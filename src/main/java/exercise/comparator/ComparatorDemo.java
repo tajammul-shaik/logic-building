@@ -1,11 +1,11 @@
-package exercise.collections.comparator;
+package exercise.comparator;
 
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Random;
 
-import static exercise.collections.comparator.ProductComparators.*;
+import static exercise.comparator.ProductComparators.*;
 
 /**
  * ComparatorDemo.java

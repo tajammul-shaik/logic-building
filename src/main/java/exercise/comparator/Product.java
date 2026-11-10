@@ -1,4 +1,4 @@
-package exercise.collections.comparator;
+package exercise.comparator;
 
 /**
  * Plain data holder - deliberately does NOT implement Comparable.
